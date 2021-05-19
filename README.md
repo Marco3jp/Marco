@@ -8,6 +8,7 @@ Marco3jpの実体であるMarcoの生活などについて管理するリポジ�
 - ファイル名
     - 基本的に日本語
     - 日本語以外の細かいニュアンスを理解できないから
+    - `git config --local core.pager "LESSCHARSET=utf-8 less"` と `git config --local core.quotepath false` が必要になるかも
 
 ## ライセンスの話
 CC-BY-4.0になっている。SAは好きじゃないのでつけていない。BYは好きなのでつけている。
